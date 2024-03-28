@@ -1,0 +1,13 @@
+main: ${PACKAGE}.${NAME}
+name: ${NAME}
+version: "${VERSION}"
+api-version: "1.17"
+author: Ryhon
+description: Toggle Frost Walker
+commands:
+  togglefrostwalker:
+    description: Toggle Frost Walker
+    aliases: [ tfw ]
+  togglefrostwalkersneaktoggle:
+    description: Toggle Frost Walker Sneak Toggle
+    aliases: [ tfwst ]
